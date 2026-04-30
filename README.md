@@ -25,6 +25,16 @@
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
+## OpenClaw Monitor
+
+> Real-time AI Agent Monitoring Dashboard for OpenClaw
+
+**GitHub:** [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ⭐
+
+![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+
+
 This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
 
 ## :restroom: &nbsp;For whom?
